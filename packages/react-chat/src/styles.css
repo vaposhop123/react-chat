@@ -26,7 +26,9 @@
 
 /* .vfrc-assistant-info {} */
 
-/* .vfrc-assistant-info--title {} */
+.vfrc-assistant-info--title {
+  content: "Test title css";
+}
 
 /* .vfrc-assistant-info--description {} */
 
