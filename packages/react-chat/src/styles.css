@@ -64,7 +64,9 @@
 
 /* .vfrc-system-response--indicator {} */
 
-/* .vfrc-system-response {} */
+.vfrc-system-response {
+  background-color: coral;
+}
 
 /* .vfrc-system-response--controls {} */
 
