@@ -115,9 +115,13 @@
 
 /* .vf-footer {} */
 
-/* .vfrc-input {} */
+.vfrc-input {
+  display: none;
+}
 
-/* .vfrc-chat-input--button {} */
+.vfrc-chat-input--button {
+  display: none;
+}
 
 .vfrc-footer--watermark {
   display: none;
