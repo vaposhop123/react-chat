@@ -11,11 +11,12 @@
   background-color: coral;
 }
 
-/*
-.vfrc-launcher {
 
+.vfrc-launcher {
+  border-radius: 20px;
+  background-color: coral;
 }
-*/
+
 /*
 .vfrc-chat--overlay {
 
@@ -54,9 +55,9 @@
   display: none;
 }
 
-/*.vfrc-icon {
-  
-}*/
+.vfrc-icon {
+  display: none;
+}
 
 
 /*
