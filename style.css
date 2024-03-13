@@ -6,7 +6,15 @@
   Customize the page that the chat bubble lives on
 */
 
-/* .voiceflow-chat {} */
+.voiceflow-chat {
+  backdrop-filter: blur(10px);
+  background: linear-gradient(rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.27) 100%);
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0.796192px 2.38858px -0.625px, rgba(0, 0, 0, 0.05) 0px 2.41451px 7.24352px -1.25px, rgba(0, 0, 0, 0.05) 0px 6.38265px 19.148px -1.875px, rgba(0, 0, 0, 0.05) 0px 20px 60px -2.5px;
+  transform: none;
+  transform-origin: 50% 50% 0px;
+  opacity: 1;
+}
 
 /* .vfrc-launcher {} */
 
@@ -23,9 +31,12 @@
 */
 
 .vfrc-header {
-  filter: blur(3px);
+  backdrop-filter: blur(10px);
   background-color: rgba(0, 0, 0, 0.19);
   box-shadow: rgba(0, 0, 0, 0.25) 0px 1px 2px 0px;
+  height: 100%;
+  width: 100%;
+  opacity: 1;
 }
 
 .vfrc-assistant-info {
