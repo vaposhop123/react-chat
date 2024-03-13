@@ -22,7 +22,10 @@
   Note that changes to the assistant information here will be shared across other elements that consume this styling.
 */
 
-/* .vfrc-header {} */
+.vfrc-header {
+  background: #00000030;
+  backdrop-filter: blur(3px);
+}
 
 /* .vfrc-assistant-info {} */
 
@@ -32,7 +35,9 @@
 
 /* .vfrc-avatar {} */
 
-/* .vfrc-icon {} */
+.vfrc-icon {
+  
+}
 
 
 /*
@@ -119,6 +124,6 @@
 
 /* .vfrc-chat-input--button {} */
 
-/*.vfrc-footer--watermark {
+.vfrc-footer--watermark {
   
-}*/
+}
