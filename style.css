@@ -27,16 +27,20 @@
   backdrop-filter: blur(3px);
 }
 
-/* .vfrc-assistant-info {} */
+.vfrc-assistant-info {
+  display: none;
+}
 
 /* .vfrc-assistant-info--title {} */
 
 /* .vfrc-assistant-info--description {} */
 
-/* .vfrc-avatar {} */
+.vfrc-avatar {
+  display: none;
+}
 
 .vfrc-icon {
-  
+  display: none;
 }
 
 
@@ -125,5 +129,5 @@
 /* .vfrc-chat-input--button {} */
 
 .vfrc-footer--watermark {
-  
+  display: none;
 }
