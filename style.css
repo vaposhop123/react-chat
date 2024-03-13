@@ -5,11 +5,12 @@
 
   Customize the page that the chat bubble lives on
 */
-/*
+
 .voiceflow-chat {
-  
+  border-radius: 20px;
+  background-color: coral;
 }
-*/
+
 
 .vfrc-launcher {
   border-radius: 20px;
