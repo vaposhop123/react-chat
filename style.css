@@ -10,18 +10,21 @@
   border-radius: 20px;
 }
 
+/*
 .vfrc-launcher {
   border-radius: 20px;
 }
-
+*/
+/*
 .vfrc-chat--overlay {
   border-radius: 20px;
 }
-
+*/
+/*
 .vfrc-prompt {
   border-radius: 20px;
 }
-
+*/
 
 /*
   CHAT WIDGET HEADER
@@ -59,15 +62,16 @@
 
   Customize the layout and display of the chat body, and the conversation's metadata
 */
-
+/*
 .vfrc-chat {
   border-radius: 20px;
 }
-
+*/
+/*
 .vfrc-chat--dialog {
   border-radius: 20px;
 }
-
+*/
 /* .vfrc-chat--spacer {} */
 
 /* .vfrc-chat--session-time {} */
