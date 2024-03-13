@@ -17,11 +17,12 @@
   background-color: coral;
 }
 
-/*
-.vfrc-chat--overlay {
 
+.vfrc-chat--overlay {
+  border-radius: 20px;
+  background-color: coral;
 }
-*/
+
 /*
 .vfrc-prompt {
 
@@ -54,11 +55,11 @@
 .vfrc-avatar {
   display: none;
 }
-
+/*
 .vfrc-icon {
   display: none;
 }
-
+*/
 
 /*
   CHAT MESSAGE BODY
