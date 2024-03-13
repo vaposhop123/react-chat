@@ -60,9 +60,13 @@
   Customize the layout and display of the chat body, and the conversation's metadata
 */
 
-/* .vfrc-chat {} */
+.vfrc-chat {
+  border-radius: 20px;
+}
 
-/* .vfrc-chat--dialog {} */
+.vfrc-chat--dialog {
+  border-radius: 20px;
+}
 
 /* .vfrc-chat--spacer {} */
 
