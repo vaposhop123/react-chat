@@ -11,24 +11,21 @@
   background-color: coral;
 }
 
-
+/*
 .vfrc-launcher {
-  border-radius: 20px;
-  background-color: coral;
+
 }
-
-
+*/
+/*
 .vfrc-chat--overlay {
-  border-radius: 20px;
-  background-color: coral;
+
 }
-
-
+*/
+/*
 .vfrc-prompt {
-  border-radius: 20px;
-  background-color: coral;
-}
 
+}
+*/
 
 /*
   CHAT WIDGET HEADER
@@ -66,18 +63,16 @@
 
   Customize the layout and display of the chat body, and the conversation's metadata
 */
-
+/*
 .vfrc-chat {
-  border-radius: 20px;
-  background-color: coral;
+ 
 }
-
-
+*/
+/*
 .vfrc-chat--dialog {
-  border-radius: 20px;
-  background-color: coral;
+ 
 }
-
+*/
 /* .vfrc-chat--spacer {} */
 
 /* .vfrc-chat--session-time {} */
